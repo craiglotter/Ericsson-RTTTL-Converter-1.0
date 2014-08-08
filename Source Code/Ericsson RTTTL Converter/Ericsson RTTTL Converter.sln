@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ericsson RTTTL Converter", "Ericsson RTTTL Converter.csproj", "{EA1AE14F-D6EC-4D09-83C4-30E3180CDFB6}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{EA1AE14F-D6EC-4D09-83C4-30E3180CDFB6}.Debug.ActiveCfg = Debug|.NET
+		{EA1AE14F-D6EC-4D09-83C4-30E3180CDFB6}.Debug.Build.0 = Debug|.NET
+		{EA1AE14F-D6EC-4D09-83C4-30E3180CDFB6}.Release.ActiveCfg = Release|.NET
+		{EA1AE14F-D6EC-4D09-83C4-30E3180CDFB6}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
